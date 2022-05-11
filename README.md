@@ -1,2 +1,2 @@
 # Data-Science-projects
-This all personal works on data science
+This are all personal works on data science
